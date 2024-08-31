@@ -30,7 +30,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Dr. Maya Patel
+                                 Maya Patel
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -52,7 +52,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Dr. Ashok Verma
+                                 Ashok Verma
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -63,7 +63,8 @@ function Testimonial() {
                                 </div>
                             </div>
                         </div>
-                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"I have taken medical services from  them . They treat so well and they are providing the best medical services."</p>
+                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"I've seen significant improvement in my child's communication skills since starting therapy. 
+                            Thank you for your dedication and expertise! "</p>
 
 
 
@@ -74,7 +75,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Dr. K.S. Rao
+                                 K.S. Rao
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -85,7 +86,8 @@ function Testimonial() {
                                 </div>
                             </div>
                         </div>
-                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"I have taken medical services from  them . They treat so well and they are providing the best medical services."</p>
+                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"I was hesitant to seek treatment, but your kindness and professionalism put me at ease. 
+                            I'm so grateful for the progress I've made under your care."</p>
 
 
 
@@ -96,7 +98,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Dr. Anita Sharma
+                                Anita Sharma
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -107,7 +109,8 @@ function Testimonial() {
                                 </div>
                             </div>
                         </div>
-                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"I have taken medical services from  them . They treat so well and they are providing the best medical services."</p>
+                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"The progress I've made in therapy has exceeded my expectations. 
+                            Thank you for your guidance, support, and celebration of my successes."</p>
 
 
 
@@ -118,7 +121,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Dr. Vandana Jain
+                                 Vandana Jain
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -129,7 +132,8 @@ function Testimonial() {
                                 </div>
                             </div>
                         </div>
-                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"I have taken medical services from  them . They treat so well and they are providing the best medical services."</p>
+                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"I've learned so much about effective communication and strategies to overcome my challenges. 
+                            You're an exceptional teacher and therapist."</p>
 
 
 
@@ -140,7 +144,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Dr. Sanjay Gupta
+                                 Sanjay Gupta
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -151,7 +155,8 @@ function Testimonial() {
                                 </div>
                             </div>
                         </div>
-                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"I have taken medical services from  them . They treat so well and they are providing the best medical services."</p>
+                        <p className='text-[16px] leading-7 mt-4 text-textColor font-[400]'>"The strategies and techniques you've taught me 
+                            have been effective and easy to incorporate into my daily routine."</p>
 
 
 
