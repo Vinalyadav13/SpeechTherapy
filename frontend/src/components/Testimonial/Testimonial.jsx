@@ -30,7 +30,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Muhibur Rahman
+                                Dr. Maya Patel
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -52,7 +52,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Muhibur Rahman
+                                Dr. Ashok Verma
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -74,7 +74,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Muhibur Rahman
+                                Dr. K.S. Rao
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -96,7 +96,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Muhibur Rahman
+                                Dr. Anita Sharma
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -118,7 +118,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Muhibur Rahman
+                                Dr. Vandana Jain
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
@@ -140,7 +140,7 @@ function Testimonial() {
                         <div className='flex items-center gap-[13px]'>
                             <img src={patientAvatar} alt="" />
                             <div><h4 className='text-[18px] leading-[30px] font-semibold text-headingColor '>
-                                Muhibur Rahman
+                                Dr. Sanjay Gupta
                             </h4>
                                 <div className='flex items-center gap-[2px]'>
                                     <HiStar className='text-yellowColor w-[18px] h-5' />
