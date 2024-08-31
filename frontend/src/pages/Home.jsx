@@ -38,11 +38,11 @@ const Home = () => {
                             we help patients live a healthy,longer life.
                             </h1>
 
-                            <p className='text__para'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                                Sed vel eius officiis? Quaerat aliquam doloremque sequi modi optio 
-                                exercitationem! Quia debitis rem temporibus atque neque! Nisi voluptate error ipsa 
-                                sit aliquid nam. Autem quos, tenetur vitae deleniti, 
-                                consectetur unde natus voluptatum quisquam officia distinctio asperiores!</p>
+                            <p className='text__para'>A professional disciplinary helping individuals with a wide 
+                              range of communication disorders. These disorders can affect how a person speaks, 
+                              understands language, reads, writes, or uses their voice. Speech-language therapy(SLT)
+                              benefits individuals at all ages and stages of life who are experiencing communication 
+                              difficulties.</p>
 
                                 <button className='btn'>
                                          Request an Appointment
